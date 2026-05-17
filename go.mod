@@ -37,3 +37,6 @@ require (
 	golang.org/x/sys v0.14.0 // indirect
 	google.golang.org/protobuf v1.31.0 // indirect
 )
+
+// Personal fork - tracking upstream caddyserver/caddy
+// TODO: bump golang.org/x/* deps to latest once upstream does the same
