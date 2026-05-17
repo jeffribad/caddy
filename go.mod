@@ -40,3 +40,5 @@ require (
 
 // Personal fork - tracking upstream caddyserver/caddy
 // TODO: bump golang.org/x/* deps to latest once upstream does the same
+// NOTE: lucas-clemente/quic-go is the old module path; upstream will eventually
+//       migrate to quic-go/quic-go - keep an eye on that when rebasing.
